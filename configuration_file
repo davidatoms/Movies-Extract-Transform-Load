@@ -1,2 +1,1 @@
-db_password = localhost:5432:postgres:dma94
-# hostname:port:database:username:password
+db_password = 94dma
