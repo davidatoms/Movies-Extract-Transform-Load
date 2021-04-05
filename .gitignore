@@ -9,3 +9,7 @@ Resources/ratings.csv
 Resources/ratings_small.csv
 Resources/wikipedia-movies.json
 .DS_Store
+config_file.py
+*.xml
+*.iml
+configuration_file
