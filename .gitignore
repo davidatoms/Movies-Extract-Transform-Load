@@ -13,3 +13,5 @@ config_file.py
 *.xml
 *.iml
 configuration_file
+dbconfig.py
+__pycache__/dbconfig.cpython-38.pyc
